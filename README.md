@@ -22,10 +22,6 @@ A modern and responsive To-Do List application built using HTML, CSS, and JavaSc
 - JavaScript
 - Local Storage
 
-## Screenshots
-
-(Add screenshot here)
-
 ## Author
 
-Your Name
+BHARANIDHARAN
